@@ -1,11 +1,32 @@
 .App {
   text-align: center;
+  margin: 0 auto;
+  width: 50%;
+  border-radius: 10px;
 }
 
 .Nav-link {
-  padding: 2rem;
+  padding: 5rem;
 }
 
 .nav-item {
   margin-top: 1rem;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  background: lightseagreen;
+  width: 90%;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  background: lightgrey;
+  width: 40%;
+  margin: 0 auto;
+  border-radius: 5px;
 }
